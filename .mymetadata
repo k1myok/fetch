@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="fetch"
+  id="myeclipse.1410336741078"
+  context-root="/fetch"
+  j2ee-spec="5.0"
+  archive="fetch.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
